@@ -40,4 +40,4 @@ The Gems & Jewellery Management System is a console-based application written in
 Clone the repository to your local machine using the following command:
 
 ```bash
-git clone https:https://github.com/Dimuthnilanjana/snakegame_js.git
+https://github.com/HiruAmarajeewa/Gem-Jewellery-Business-Application.git
