@@ -3,7 +3,7 @@
 # **Description:**
 The Gems & Jewellery Management System is a console-based application written in C. This system allows users to manage purchases and sales of both gems and jewellery items. It provides functionalities for updating the prices of gems and jewellery items, purchasing and selling these items, and generating bills for transactions.
 
-# **Features:**
+# **✨ Features:**
 1. **Main Menu:**
    - Purchase: Allows the user to navigate to the purchase menu.
    - Sale: Allows the user to navigate to the sales menu.
@@ -35,3 +35,9 @@ The Gems & Jewellery Management System is a console-based application written in
 - The system uses a console interface and operates with simple text-based input and output.
 - Prices are updated dynamically during the program execution.
 
+## 🚀 Installation
+
+Clone the repository to your local machine using the following command:
+
+```bash
+git clone https:https://github.com/Dimuthnilanjana/snakegame_js.git
