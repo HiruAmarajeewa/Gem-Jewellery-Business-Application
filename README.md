@@ -1,6 +1,6 @@
 # **Gems & Jewellery Management System**
 
-**Description:**
+# **Description:**
 The Gems & Jewellery Management System is a console-based application written in C. This system allows users to manage purchases and sales of both gems and jewellery items. It provides functionalities for updating the prices of gems and jewellery items, purchasing and selling these items, and generating bills for transactions.
 
 # **Features:**
